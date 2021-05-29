@@ -9,7 +9,7 @@ const TextContainer = ({ users }) => (
     <div>
       <h1>Realtime Chat Application <span  aria-label="emoji">💬</span></h1>
       <h2>Created with React, Express, Node and Socket.IO <span aria-label="emoji">😎</span></h2>
-      <h2>Devloped By Prince🤠 <span aria-label="emoji"></span></h2>
+      <h2>Devloped By Prince... </h2>
     </div>
     {
       users
